@@ -1,6 +1,3 @@
-# Balance-Robot
-Self-balancing two-wheeled robot
-
 # Self-Balancing Robot with PID & IR Control
 
 โปรเจกต์นี้คือการสร้างหุ่นยนต์สองล้อทรงตัวอัตโนมัติ (Self-Balancing Robot) โดยใช้เซนเซอร์ **MPU6050** ในการวัดความเอียง และใช้ระบบควบคุมแบบ **PID Controller** เพื่อประมวลผลการทรงตัว พร้อมทั้งรองรับการควบคุมทิศทางผ่าน **IR Remote**
